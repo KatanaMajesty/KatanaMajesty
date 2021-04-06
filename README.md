@@ -3,7 +3,7 @@
 
 [![yasuke](https://i.ytimg.com/an_webp/oYcK1LQl_Fs/mqdefault_6s.webp?du=3000&sqp=CI2zsoMG&rs=AOn4CLAYB6inMsNOPDvg1oYGkyCMrI2pQQ)](https://www.youtube.com/watch?v=oYcK1LQl_Fs)
 
-[![Uno dos](https://cdn.discordapp.com/attachments/723856819918995507/829097815065231360/unknown.png)](https://www.youtube.com/watch?v=83gdQe0Ij5k)
+[![Uno dos](http://img.youtube.com/vi/83gdQe0Ij5k/0.jpg)](http://www.youtube.com/watch?v=83gdQe0Ij5k "https://cdn.discordapp.com/attachments/723856819918995507/829097815065231360/unknown.png")
 
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.discordapp.com/attachments/723856819918995507/829067390061903872/twitter-xxl.png" />][twitter]
