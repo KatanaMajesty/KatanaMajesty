@@ -1,8 +1,9 @@
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=kfsqtwi0g2zj5q1e4r1rvz9l4&cover_image=true&theme=default)](https://open.spotify.com/user/kfsqtwi0g2zj5q1e4r1rvz9l4)
 
-[![Watch the video](https://i.ytimg.com/an_webp/oYcK1LQl_Fs/mqdefault_6s.webp?du=3000&sqp=CI2zsoMG&rs=AOn4CLAYB6inMsNOPDvg1oYGkyCMrI2pQQ)](https://www.youtube.com/watch?v=oYcK1LQl_Fs)
+[![yasuke](https://i.ytimg.com/an_webp/oYcK1LQl_Fs/mqdefault_6s.webp?du=3000&sqp=CI2zsoMG&rs=AOn4CLAYB6inMsNOPDvg1oYGkyCMrI2pQQ)](https://www.youtube.com/watch?v=oYcK1LQl_Fs)
 
+[![Uno dos](https://cdn.discordapp.com/attachments/723856819918995507/829097815065231360/unknown.png)](https://www.youtube.com/watch?v=83gdQe0Ij5k)
 
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.discordapp.com/attachments/723856819918995507/829067390061903872/twitter-xxl.png" />][twitter]
