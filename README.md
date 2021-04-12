@@ -6,7 +6,7 @@
 [<img align="left" alt="reddit | Reddit" width="22px" src="https://cdn.discordapp.com/attachments/723856819918995507/829067388615655484/reddit-xxl.png" />][reddit]
 [<img align="left" alt="spotify | Spotify" width="22px" src="https://cdn.discordapp.com/attachments/723856819918995507/829067203264774165/spotify-xxl.png" />][spotify]
 
-[twitter]: https://www.instagram.com/daunpictures/
+[twitter]: https://www.twitter.com/katanamajesty
 [steam]: https://steamcommunity.com/id/katanamajesty/
 [reddit]: https://www.reddit.com/user/KatanaMajesty
 [spotify]: https://open.spotify.com/user/kfsqtwi0g2zj5q1e4r1rvz9l4
