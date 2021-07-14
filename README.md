@@ -21,5 +21,5 @@
 ![InDesign](https://img.shields.io/badge/-InDesign-b55b71?style=for-the-badge&logo=adobe-indesign&logoColor=FFFFFF)
 </br>
 ## Destination: Mexico
-![Stats](https://github-readme-stats.vercel.app/api?username=KatanaMajesty&count_private=true&show_icons=true&theme=dark&locale=ru&bg_color=90,694f9e,571c70)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KatanaMajesty&theme=dark&locale=ru&bg_color=90,694f9e,571c70)
+![Stats](https://github-readme-stats.vercel.app/api?username=KatanaMajesty&count_private=true&show_icons=true&theme=dracula&locale=ru)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KatanaMajesty&theme=dracula&locale=ru)
