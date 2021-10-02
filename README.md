@@ -22,4 +22,5 @@
 </br>
 ## Destination: Mexico
 ![Stats](https://github-readme-stats.vercel.app/api?username=KatanaMajesty&count_private=true&show_icons=true&theme=dracula&locale=ru)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KatanaMajesty&theme=dracula&locale=ru)
