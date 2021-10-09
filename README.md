@@ -23,6 +23,6 @@
 [spotify]: https://open.spotify.com/user/kfsqtwi0g2zj5q1e4r1rvz9l4
 </br>
 ## githuu
-![Stats](https://github-readme-stats.vercel.app/api?username=KatanaMajesty&count_private=true&show_icons=true&theme=dracula&locale=ru)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KatanaMajesty&theme=dracula&locale=ru)
+![Stats](https://github-readme-stats.vercel.app/api?username=KatanaMajesty&count_private=true&show_icons=true&theme=dracula&locale=ru)
 
