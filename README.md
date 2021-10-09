@@ -2,7 +2,7 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=kfsqtwi0g2zj5q1e4r1rvz9l4&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=kfsqtwi0g2zj5q1e4r1rvz9l4&redirect=true)
 </br>
 
-![](https://c.tenor.com/P-WFRC0AI8sAAAAC/scout-tf2.gif)
+![](https://github.com/KatanaMajesty/KatanaMajesty/blob/main/scout-tf2.gif)
 
 ## Социалочки
 [<img align="left" alt="twitter | Twitter" width="32px" src="https://camo.githubusercontent.com/35b0b8bfbd8840f35607fb56ad0a139047fd5d6e09ceb060c5c6f0a5abd1044c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f747769747465722e737667" />][twitter]
