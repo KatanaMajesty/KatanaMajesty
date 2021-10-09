@@ -1,4 +1,5 @@
 
+![](https://github.com/KatanaMajesty/KatanaMajesty/blob/main/asket_abaldet.gif)
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=kfsqtwi0g2zj5q1e4r1rvz9l4&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=kfsqtwi0g2zj5q1e4r1rvz9l4&redirect=true)
 </br>
 
@@ -18,3 +19,4 @@
 ## githuu
 ![Stats](https://github-readme-stats.vercel.app/api?username=KatanaMajesty&count_private=true&show_icons=true&theme=dracula&locale=ru)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KatanaMajesty&theme=dracula&locale=ru)
+
