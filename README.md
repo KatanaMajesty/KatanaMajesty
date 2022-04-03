@@ -4,7 +4,7 @@ https://github.com/stop-war-in-ukraine/stop-russia-it
 
 ![](https://github.com/KatanaMajesty/KatanaMajesty/blob/main/not-a-war.gif)
 
-<!-- <p align="left">
+<p align="left">
   <a target="_blank" href="https://spotify-github-profile.vercel.app/api/view?uid=kfsqtwi0g2zj5q1e4r1rvz9l4&redirect=true">
     <img src="https://spotify-github-profile.vercel.app/api/view?uid=kfsqtwi0g2zj5q1e4r1rvz9l4&cover_image=true&theme=default">
   </a>
@@ -30,5 +30,3 @@ https://github.com/stop-war-in-ukraine/stop-russia-it
 ## githuu
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KatanaMajesty&theme=dracula&locale=ru)
 ![Stats](https://github-readme-stats.vercel.app/api?username=KatanaMajesty&count_private=true&show_icons=true&theme=dracula&locale=ru)
-
- -->
