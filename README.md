@@ -1,8 +1,8 @@
 
-# HELP UKRAINE, STOP PUTIN!
+<!-- # HELP UKRAINE, STOP PUTIN!
 https://github.com/stop-war-in-ukraine/stop-russia-it
 
-![](https://github.com/KatanaMajesty/KatanaMajesty/blob/main/not-a-war.gif)
+![](https://github.com/KatanaMajesty/KatanaMajesty/blob/main/not-a-war.gif) -->
 
 <p align="left">
   <a target="_blank" href="https://spotify-github-profile.vercel.app/api/view?uid=kfsqtwi0g2zj5q1e4r1rvz9l4&redirect=true">
