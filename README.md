@@ -14,9 +14,6 @@ https://github.com/stop-war-in-ukraine/stop-russia-it
 
 </br>
 
-## Социалочки
-![](https://github.com/KatanaMajesty/KatanaMajesty/blob/main/нечмоня.jpg)
-
 [<img align="left" alt="twitter | Twitter" width="32px" src="https://camo.githubusercontent.com/35b0b8bfbd8840f35607fb56ad0a139047fd5d6e09ceb060c5c6f0a5abd1044c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f747769747465722e737667" />][twitter]
 [<img align="left" alt="steam | Steam" width="32px" src="https://camo.githubusercontent.com/2e51cfa2846afbace22819d8c7dd9afad50d0a414ad1d7d30e811952706f548d/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f737465616d2e737667" />][steam]
 [<img align="left" alt="reddit | Reddit" width="32px" src="https://camo.githubusercontent.com/521640dc2dba501cde1805c0a42cecf5ccf7fc1378f542fe9fda756fb36add25/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f7265646469742e737667" />][reddit]
@@ -27,6 +24,6 @@ https://github.com/stop-war-in-ukraine/stop-russia-it
 [reddit]: https://www.reddit.com/user/KatanaMajesty
 [spotify]: https://open.spotify.com/user/kfsqtwi0g2zj5q1e4r1rvz9l4
 </br>
-## githuu
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KatanaMajesty&theme=dracula&locale=ru)
 ![Stats](https://github-readme-stats.vercel.app/api?username=KatanaMajesty&count_private=true&show_icons=true&theme=dracula&locale=ru)
